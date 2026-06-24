@@ -2,9 +2,12 @@
 
 **A brutal customer review in. Three perfect replies out — in seconds.**
 
+> 🟢 **[Try the live demo →](https://review-rescue-six.vercel.app)** — paste any review, get a risk read + 3 send-ready replies. No signup; runs free in demo mode.
+
 Paste any review and `review-rescue` reads the reviewer's intent, scores the **risk** (green / amber / red), and writes **three ready-to-send replies** — *De-escalate*, *Hold the Line*, and *Win Them Back* — plus a one-line alert for your team. Built for non-technical local-business owners (restaurants, salons, clinics, gyms, shops).
 
 [![CI](https://github.com/enached134-ctrl/review-rescue/actions/workflows/ci.yml/badge.svg)](https://github.com/enached134-ctrl/review-rescue/actions/workflows/ci.yml)
+&nbsp;[![Live demo](https://img.shields.io/badge/demo-live-brightgreen)](https://review-rescue-six.vercel.app)
 &nbsp;License: PolyForm Noncommercial 1.0.0 · Next.js · Claude · TypeScript · react-three-fiber
 
 ![review-rescue — a brutal review in, three perfect replies out](docs/img/01-hero.png)
